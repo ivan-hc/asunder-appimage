@@ -3,6 +3,10 @@ Unofficial. Audio CD ripper and encoder for WAV, MP3, OGG, FLAC, Opus, AAC....
 
 ------------------------------------------------------------------------
 
+Archived in favour of https://github.com/pkgforge-dev/Asunder-AppImage on July 4, 2026
+
+------------------------------------------------------------------------
+
 ## Install and update it with ease
 
 ### *"*AM*" Application Manager* 
